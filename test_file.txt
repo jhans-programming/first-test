@@ -2,5 +2,5 @@ This is my test file
 - apple
 - juice
 - plank
-- stingray
 - Thor
+- Poland
